@@ -1,0 +1,112 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  overflow: visible;
+  position: relative;
+}
+
+.cap{
+  width: 500px;
+  height: 800px;
+  background-color:#FFE4C4;
+  margin: 0 auto;
+  border-radius: 100px 100px 200px 200px;
+}
+
+.pel{
+  height: 200px;
+  background-color: black;
+  border-radius: 100px 100px 0 0;
+}
+
+.ulls{
+  height: 20px;
+
+  background-color:;
+}
+
+.celles{
+  height: 20px;
+  background-color: ;
+  clear: both;
+}
+
+.cella{
+  width: 200px;
+  height: 20px;
+  background-color: #CD853F;
+  margin: 0 25px;
+}
+
+.esquerra{
+  float: left;
+  clear: left;
+}
+
+
+.dreta{
+  float: right;
+  clear: right;
+}
+
+.parpelles{
+  height: 60px;
+  background-color:;
+  margin: 0;
+}
+
+.parpella{
+  width: 100px;
+  height: 100px;
+  background-color:white;
+  margin: 0 75px;}
+
+.pestanyes{
+height: 80px;
+background-color: ;
+margin: 0 75px;
+
+}
+.pestanya{
+  height: 50px;
+  width: 100px;
+  background-color: ;
+  margin: 0;
+  top: -100px;
+  border-top: solid yellow 25px;
+  border-bottom: solid yellow 25px;
+}
+.nas{
+  width: 40px;
+  height: 100px;
+  background-color: #DDAE00;
+  left: 230px;
+  top: 150px;
+}
+.boca{
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  background-color: #FF1010;
+  left: 200px;
+  top: 250px;
+}
+.irisesquerra{
+  width: 30px;
+  height: 30px;
+  background-color: black;
+border-radius: 30px;
+top:-105px;
+left: 110px;
+}
+.irisdreta{
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border-radius: 30px;
+  top: -135px;
+  left: 360px;
+}
